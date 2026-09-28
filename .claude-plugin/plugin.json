@@ -1,0 +1,8 @@
+{
+  "name": "flight-hacker",
+  "version": "0.1.0",
+  "description": "A reusable flight-search workflow for finding low-cost, practical routes, nearby-airport alternatives, booking-timing context, and travel alerts.",
+  "author": {
+    "name": "Marti Stone + collaborator"
+  }
+}
